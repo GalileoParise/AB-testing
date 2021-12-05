@@ -14,11 +14,11 @@
 
 ## References
 
-Instructions: https://docs.google.com/document/u/1/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub
+Instructions: [link](https://docs.google.com/document/u/1/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub)
 
-Template: https://docs.google.com/document/d/16OX2KDSHI9mSCriyGIATpRGscIW2JmByMd0ITqKYvNg/edit
+Template: [link](https://docs.google.com/document/d/16OX2KDSHI9mSCriyGIATpRGscIW2JmByMd0ITqKYvNg/edit)
 
-Baseline values: https://docs.google.com/spreadsheets/d/1MYNUtC47Pg8hdoCjOXaHqF-thheGpUshrFA21BAJnNc/edit#gid=0
+Baseline values: [link](https://docs.google.com/spreadsheets/d/1MYNUtC47Pg8hdoCjOXaHqF-thheGpUshrFA21BAJnNc/edit#gid=0)
 
 
 ##  Invariant metrics
@@ -80,7 +80,7 @@ I decided not to use the Bonferroni correction because we are measuring three hi
 
 How many page do I need with alpha=0.05 and beta=0.2?
 
-I use this online calculator https://www.evanmiller.org/ab-testing/sample-size.html 
+I use [this](https://www.evanmiller.org/ab-testing/sample-size.html) online calculator 
 
 
 Gross conversion:
@@ -153,7 +153,7 @@ Dropping this metric we could decrease the percentage of traffic without increas
 
 ## Sanity checks
 
-Final results available here: https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
+Final results available [here](https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0)
 
 
 ```python
